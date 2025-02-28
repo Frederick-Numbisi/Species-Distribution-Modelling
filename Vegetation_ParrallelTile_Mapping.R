@@ -14,9 +14,8 @@ version
 packageStatus()
 ## ------------------------------------------------------
 
-#setwd('/Users/fnumbisi/Documents/RBGE_MajorFloras_CMEP/ALULA_FLORA_Project/AlUla_AOI_Data')
 
-setwd('/Users/fnumbisi/Documents/RBGE_MajorFloras_CMEP/ALULA_FLORA_Project/')
+setwd('/Users/fnumbisi/Documents/pathToWorkingDirectory')
 
 ## ------------------------------------------------------
 # Load the necessary libraries
