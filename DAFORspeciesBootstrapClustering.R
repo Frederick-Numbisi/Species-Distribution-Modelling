@@ -46,9 +46,8 @@ require(dismo)
 ### Assessment of Stability Within the Cluster Groups
 ## Making Reference to the Optimal Number of K (clusters) from Gap Statistics
 
-setwd("/Users/fnumbisi/Documents/RBGE_MajorFloras_CMEP/WADI_ASHAR_Project/WadiAshar_Sept2022Data_Clusters/GailClusterAnalysisDescription/AsharDAFORscale/DAFORspeciesBootstrapClusters")
+setwd("/Users/fnumbisi/Documents/pathToWorkingDirectory")
 
-# setwd("/Users/fnumbisi/Documents/RBGE_MajorFloras_CMEP/ALULA_FLORA_Project/AlUla_VegMapping_Data/AlUla_ClusterAnalysis_PlantAssemblages/Combined_versions")
 
 # load the fpc package
 #install.packages("fpc")
